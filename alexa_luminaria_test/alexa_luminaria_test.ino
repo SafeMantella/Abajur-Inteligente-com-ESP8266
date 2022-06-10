@@ -2,8 +2,8 @@
 #include <ESP8266WiFi.h>
 #include "fauxmoESP.h"
 
-#define WIFI_SSID "LAR DOCE LAR 2G" //SSID
-#define WIFI_PASS "m26022004" //senha - password
+#define WIFI_SSID "" //Digite o nome da sua rede entre as aspas
+#define WIFI_PASS "" //Digite a sua senha de rede entre as aspas
 
 fauxmoESP fauxmo;
 
